@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
+    "@google/clasp": "^2.4.1",
     "lodash": "^4.17.11",
     "moment": "^2.24.0"
   }
